@@ -1,0 +1,44 @@
+_repo: The-Valley-of-the-Moon_1449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "The Valley of the Moon (1913) is a novel by American writer Jack London\
+  \ (as well as the mythic and romantic name for the wine-growing Sonoma Valley of\
+  \ California). The valley where it is set is located north of the San Francisco\
+  \ Bay Area in Sonoma County, California where Jack London was a resident; he built\
+  \ his ranch in Glen Ellen.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1449'
+  wikidata: Q1174082
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Strikes and lockouts -- Fiction'
+- !lcsh 'Working class -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: The Valley of the Moon
+url: http://www.gutenberg.org/ebooks/1449
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Vall%C3%A9e_de_la_Lune
+- https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%87_%D9%85%D8%A7%D9%87_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://en.wikipedia.org/wiki/The_Valley_of_the_Moon_(novel)
+- https://bg.wikipedia.org/wiki/%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%82%D0%B0_%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0
+- https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D6%82%D5%BD%D5%B6%D5%AB_%D5%B0%D5%B8%D5%BE%D5%AB%D5%BF%D5%A8
+- https://it.wikipedia.org/wiki/La_valle_della_Luna
+- https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)

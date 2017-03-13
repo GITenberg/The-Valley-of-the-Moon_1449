@@ -1,5 +1,8 @@
 _repo: The-Valley-of-the-Moon_1449
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -14,6 +17,8 @@ description: "The Valley of the Moon (1913) is a novel by American writer Jack L
   \ California). The valley where it is set is located north of the San Francisco\
   \ Bay Area in Sonoma County, California where Jack London was a resident; he built\
   \ his ranch in Glen Ellen.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1449#The-Valley-of-the-Moon
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
 identifiers:
